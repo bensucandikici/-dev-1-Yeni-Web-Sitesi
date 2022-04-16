@@ -1,15 +1,75 @@
+.back{
+   
+    background-color: rgb(250, 240, 227);
+   
+}
+.p-1 {
+    font-family: 'Bebas Neue', 'Square Peg' , cursive;
+    font-style: italic;
+    font-size: 20px;
+    padding: 3px;
+}
+
 .asdzxc {
     color: rgb(73, 40, 104);
     font-family: 'Bebas Neue', cursive;
     text-align: center;
     list-style: none;
+    font-size: 20px;
+
 }
 .sephoraguzelligi {
 
-    color: cornflowerblue;
-    font-family: 'Bebas Neue', cursive ;
+    color: rgb(112, 86, 78);
+    font-family: 'Kanit', sans-serif;
     text-align: center;
-    text-decoration-line: underline;
+    font-size: 40px;
+    
+}
+.buton {
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    size: 5px;
+    padding: 20px;
+    width: 300px;
+    color: black;
+    background-color: rgba(209, 189, 189, 0.651);
+}
+.h-1 {
+    color: rgb(3, 3, 46);
+    font-size: 50px;
 }
 
+.img{
 
+    height: 50%;
+
+    width: 100%;
+
+    border: 5px solid #6e3d04;
+
+    background-color: #ffffff;
+
+    padding: 0px;
+
+}
+.prgrf {
+    color: black;
+    font-size: 20px;
+    font-family: 'Square Peg', cursive;
+}
+.cream {
+    font-family: 'Square Peg', cursive;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+.makeup {
+    font-size: 20px;
+    font-family: 'Square Peg', cursive;
+}
+.art {
+    font-size: 20px;
+    font-family:'Square Peg', cursive;
+    text-align: center;
+ 
+}
